@@ -52,12 +52,14 @@ These executives are **actively hiring** and **facing automation challenges** th
 
 ---
 
-## 👥 **TEAM & RESPONSIBILITIES**
+## 🤖 **AUTONOMOUS SYSTEM CAPABILITIES**
 
-| Person | Role | Contact | Current Focus |
-|--------|------|---------|---------------|
-| **Nikhil Singh** | Data & Analysis | nikhil@giki.ai | LinkedIn search automation |
-| **Rahul** | Business Development | rahul@giki.ai | Outreach strategy & execution |
+| Function | Status | Current Operations |
+|----------|--------|-------------------|
+| **LinkedIn Search** | ✅ Active | Monitoring CFO/FinOps/Chief of Staff roles |
+| **Data Analysis** | ✅ Active | Automated scoring and opportunity assessment |
+| **Report Generation** | ✅ Active | Daily updates and company intelligence |
+| **Contact Research** | ✅ Active | Leadership mapping and outreach strategies |
 
 ---
 
