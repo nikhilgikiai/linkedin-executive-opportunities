@@ -1,0 +1,94 @@
+# Augment Guidelines: LinkedIn Executive Opportunities System
+
+## Project Overview
+This system identifies and analyzes executive job opportunities on LinkedIn for business development and product discovery at Giki.ai. The goal is to find the right executives at growing companies who will shape our product development direction.
+
+## Human-Readable Output Structure
+
+### 1. Daily Reports (`reports/daily/`)
+- **Format**: Markdown files named `YYYY-MM-DD.md`
+- **Content**: New opportunities found, key insights, recommended actions
+- **Audience**: Quick daily review for Nikhil and Rahul
+
+### 2. Company Profiles (`companies/`)
+- **Format**: Individual markdown files per company
+- **Naming**: `company-name.md` (lowercase, hyphenated)
+- **Content**: Detailed company analysis, contact strategy, opportunity assessment
+
+### 3. Weekly Summaries (`reports/weekly/`)
+- **Format**: Comprehensive markdown reports
+- **Content**: Trends, top opportunities, pipeline status, next week's focus
+
+### 4. Executive Dashboard (`dashboard.md`)
+- **Real-time overview** of all opportunities
+- **Priority matrix** (AI Affinity vs Business Opportunity)
+- **Action items** for team
+
+## Data Collection Guidelines
+
+### Target Roles
+- Chief of Staff
+- Founder's Office positions  
+- CFO / Fractional CFO
+- VP Finance / FinOps
+
+### Company Criteria
+- **Stage**: Seed to Series C (growth companies)
+- **AI Affinity**: Companies showing automation/AI interest
+- **Metrics Focus**: Roles requiring financial/operational tracking
+
+### Scoring System
+- **AI Affinity Score**: 1-10 (readiness for AI/automation solutions)
+- **Business Opportunity Score**: 1-10 (potential for Giki.ai engagement)
+- **Priority Threshold**: Both scores ≥ 8 for immediate action
+
+## Automation Workflow
+
+### LinkedIn Search Process
+1. **Authentication**: Use stored credentials autonomously
+2. **Search Terms**: Rotate through target role keywords
+3. **Data Extraction**: Company, role, requirements, contact info
+4. **Analysis**: Score opportunities and identify solutions
+
+### GitHub Integration
+1. **Data Storage**: All raw data in `/data/` directory
+2. **Human Reports**: Generated in `/reports/` directory  
+3. **Company Profiles**: Individual files in `/companies/`
+4. **Commit Strategy**: Daily commits with meaningful messages
+
+### Team Collaboration
+- **Nikhil**: Data collection, analysis, system maintenance
+- **Rahul**: Business development, outreach, strategic direction
+- **Communication**: Via GitHub issues and commit messages
+
+## Quality Standards
+
+### Data Accuracy
+- Verify company stage and size
+- Validate contact information
+- Cross-reference job requirements with AI solutions
+
+### Report Quality
+- Clear, actionable insights
+- Specific contact strategies
+- Quantified opportunity assessments
+
+### Update Frequency
+- **Daily**: New opportunities and quick insights
+- **Weekly**: Comprehensive analysis and trends
+- **Monthly**: Strategic review and system optimization
+
+## Success Metrics
+- Number of high-quality opportunities identified
+- Conversion rate from identification to contact
+- Product insights gained from market analysis
+- Business development pipeline growth
+
+## System Maintenance
+- Regular LinkedIn search automation
+- Data quality checks
+- Report generation and formatting
+- GitHub repository organization
+
+---
+*This system is designed for autonomous operation with minimal human intervention while maximizing business value.*
