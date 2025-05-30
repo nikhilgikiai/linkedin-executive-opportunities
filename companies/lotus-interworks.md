@@ -2,17 +2,27 @@
 
 ## 🎯 Priority: IMMEDIATE ACTION REQUIRED
 
-**AI Affinity Score**: 10/10  
-**Business Opportunity Score**: 10/10  
+**AI Affinity Score**: 10/10
+**Business Opportunity Score**: 10/10
 **Overall Priority**: ⭐⭐⭐ TOP TARGET
 
 ## Company Overview
 
-- **Industry**: AI/Technology
+- **Industry**: AI/Technology (Software Development)
 - **Stage**: High-growth AI startup
 - **Financials**: $5M trailing ARR, 70%+ margins
 - **Backing**: Ray Stata (Analog Devices founder)
 - **Focus**: Self-driving AI operating system for small business growth
+- **Company Size**: 201-500 employees
+- **LinkedIn Followers**: 422K followers
+- **Founded**: 2019
+- **Founder**: Dr. B. Gopinath (Stanford Ph.D., IEEE Fellow)
+
+### Company Intelligence
+- **Product**: "Simplia" - AI and digital services platform for small businesses
+- **Market Position**: Addressing 90% of small businesses struggling with digital transformation
+- **Technology**: AI-powered transformative solutions for small business automation
+- **Growth Trajectory**: Targeting unicorn status with strong financial metrics
 
 ## Current Opportunity
 
@@ -65,9 +75,15 @@
 
 ## Contact Strategy
 
+### Key Contacts Identified
+- **Dr. B. Gopinath** - Founder & CEO (Stanford Ph.D., IEEE Fellow)
+- **Job Poster**: To be identified from job posting
+- **Decision Makers**: C-level executives in finance/operations
+
 ### Primary Approach
-**Target**: CEO and founding team  
+**Target**: Dr. B. Gopinath (Founder & CEO)
 **Message**: "Agentic solutions for financial automation and investor reporting - perfect fit for high-growth AI company"
+**Angle**: Stanford Ph.D. to Stanford Ph.D. connection, AI expertise alignment
 
 ### Value Proposition
 - **Time Savings**: Automate 80% of investor reporting tasks
@@ -99,5 +115,5 @@
 4. Schedule outreach within 48 hours
 
 ---
-*Company Profile Created: December 19, 2024*  
+*Company Profile Created: December 19, 2024*
 *Last Updated: December 19, 2024*

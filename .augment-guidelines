@@ -90,7 +90,42 @@ This system identifies and analyzes executive job opportunities on LinkedIn for 
 - Report generation and formatting
 - GitHub repository organization
 
+## Enhanced Opportunity Research
+
+### Smart Workflow for High-Priority Targets
+When opportunities score ≥ 8/8, automatically conduct deeper research:
+
+1. **Contact Identification**
+   - Find job poster (hiring manager, HR, recruiter)
+   - Identify decision makers (founders, C-level executives)
+   - Map reporting structure and key stakeholders
+
+2. **Leadership Research**
+   - Founder/co-founder backgrounds and LinkedIn profiles
+   - Senior executives relevant to our solutions
+   - Previous experience with AI/automation tools
+   - Investment history and growth trajectory
+
+3. **Company Intelligence**
+   - Recent funding rounds and investor information
+   - Technology stack and current tools
+   - Growth metrics and public statements
+   - Competitive landscape and positioning
+
+### Research Execution
+- Conduct research AFTER initial opportunity identification
+- Focus on companies with scores ≥ 8/8 for efficiency
+- Store findings in individual company profile files
+- Update contact strategy based on research insights
+
 ## Handoff Procedures
+
+### Thread Resumption Protocol
+When user says "resume", "let's resume", "resume from previous thread", "let's fucking go", or similar:
+1. **Read latest commit messages** for session status
+2. **Check dashboard.md** for current priorities
+3. **Review .augment-guidelines** for any instruction updates
+4. **Continue from last documented state** without asking for context
 
 ### After Every Run
 1. **Commit & Push**: All new data and reports must be committed with descriptive messages
