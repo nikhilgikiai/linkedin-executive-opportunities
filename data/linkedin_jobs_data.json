@@ -212,5 +212,93 @@
     "linkedin_url": "https://www.linkedin.com/jobs/view/4239361045/",
     "company_linkedin": "https://www.linkedin.com/company/natobotics/",
     "notes": "Excellent target - established IT services company with strong FinOps focus, heavy emphasis on automation and optimization - ideal for Giki.ai financial automation solutions"
+  },
+  {
+    "id": "4240532323",
+    "title": "Senior Manager - Fraud Analytics",
+    "company": "Applied Data Finance",
+    "location": "Greater Kolkata Area (On-site)",
+    "posted_date": "9 hours ago",
+    "applicants": "6 people clicked apply",
+    "job_type": "Full-time",
+    "experience_level": "5-8 years",
+    "company_size": "Not specified",
+    "industry": "Financial Services/Fintech",
+    "company_stage": "Fintech company (fraud analytics focus)",
+    "description_summary": "Senior Manager to lead fraud strategy function. Own development and performance of fraud models, scorecards, work with cross-functional partners on fraud policies, collaborate with fraud operations team.",
+    "metrics_tracking_requirements": [
+      "Fraud model performance tracking",
+      "Scorecard performance metrics",
+      "Real-time fraud trend monitoring",
+      "Fraud performance reporting for leadership",
+      "Cross-channel fraud analytics",
+      "Approval rate vs risk mitigation balance"
+    ],
+    "ai_affinity_indicators": [
+      "Fraud detection models and machine learning",
+      "Anomaly detection systems",
+      "Advanced SQL and Python for modeling",
+      "Third-party fraud data integration",
+      "Decision engine automation",
+      "Real-time fraud trend adaptation"
+    ],
+    "ai_affinity_score": 9,
+    "giki_ai_solutions": [
+      "Advanced fraud detection ML models",
+      "Real-time anomaly detection systems",
+      "Automated fraud scorecard optimization",
+      "AI-powered fraud pattern recognition",
+      "Automated fraud policy recommendations",
+      "Cross-channel fraud analytics dashboard"
+    ],
+    "business_opportunity_score": 8,
+    "contact_strategy": "Reach out to leadership about next-generation AI fraud detection solutions and automated fraud analytics",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4240532323/",
+    "company_linkedin": "https://www.linkedin.com/company/applied-data-finance/",
+    "notes": "Strong target - fintech with heavy ML/AI focus in fraud detection, perfect fit for advanced AI solutions and automation"
+  },
+  {
+    "id": "4240124123",
+    "title": "Manager Strategy Operations - Founder's office",
+    "company": "Rooter.gg",
+    "location": "New Delhi, Delhi, India (On-site)",
+    "posted_date": "Recent",
+    "applicants": "Not specified",
+    "job_type": "Full-time",
+    "experience_level": "3-4 years (MBA required)",
+    "company_size": "Not specified",
+    "industry": "Gaming/Entertainment Technology",
+    "company_stage": "High-growth gaming platform ($24M ARR, 7x YoY growth)",
+    "description_summary": "Founder's Office Manager supporting high-priority initiatives, investor relations, board meetings, strategic presentations. Work directly with founder on scaling fast-growing gaming platform.",
+    "metrics_tracking_requirements": [
+      "Monthly/quarterly/annual investor reports",
+      "Board meeting materials and KPIs",
+      "Cross-functional project tracking",
+      "Market research and competitor analysis",
+      "Financial statement analysis",
+      "Strategic performance metrics"
+    ],
+    "ai_affinity_indicators": [
+      "Gaming platform with 14M MAUs",
+      "Data-driven pitch deck creation",
+      "Business analysis and insights",
+      "Modern work tools (PowerBI, data visualization)",
+      "High-velocity digital gaming economy",
+      "User-generated revenue (77% of total)"
+    ],
+    "ai_affinity_score": 8,
+    "giki_ai_solutions": [
+      "Automated investor reporting dashboards",
+      "AI-powered market research and competitor analysis",
+      "Automated board meeting materials generation",
+      "Real-time cross-functional project tracking",
+      "Predictive business analytics and insights",
+      "Automated financial statement analysis"
+    ],
+    "business_opportunity_score": 9,
+    "contact_strategy": "Reach out to founder about agentic solutions for investor relations automation and strategic analytics - perfect for high-growth gaming platform",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/4240124123/",
+    "company_linkedin": "https://www.linkedin.com/company/hello-rooter/",
+    "notes": "Excellent target - high-growth gaming platform with strong financials ($24M ARR), direct founder access, heavy focus on investor relations and strategic analytics"
   }
 ]

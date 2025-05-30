@@ -1,0 +1,14 @@
+# Development artifacts - NOT for business intelligence repo
+node_modules/
+build/
+dist/
+.env
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.tmp
+*.temp
+
+# Keep business-relevant files only
+# This repo is for business intelligence, not development

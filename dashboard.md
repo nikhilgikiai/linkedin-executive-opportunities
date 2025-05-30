@@ -9,11 +9,12 @@
 | **Lotus Interworks** | VP Capital Raising | 10 | 10 | AI Startup ($5M ARR) | 🔥 **IMMEDIATE** - Contact CEO |
 | **Weekday AI (YC W21)** | Chief of Staff | 8 | 9 | YC-backed | 🔥 **IMMEDIATE** - Contact CEO |
 | **Natobotics** | VP FinOps | 9 | 9 | Established IT | 🔥 **IMMEDIATE** - Contact hiring team |
+| **Rooter.gg** | Manager Strategy Ops | 8 | 9 | Gaming ($24M ARR) | 🔥 **IMMEDIATE** - Contact founder |
 
 ## 📊 Pipeline Overview
 
-- **Total Opportunities**: 5
-- **High Priority**: 3 (60%)
+- **Total Opportunities**: 7
+- **High Priority**: 4 (57%)
 - **Companies Contacted**: 0
 - **Active Discussions**: 0
 
@@ -24,7 +25,7 @@
 - **Natobotics**: Cloud cost optimization, FinOps automation
 - **Pepper Content**: Cross-functional metrics tracking
 
-### Operational Excellence  
+### Operational Excellence
 - **Weekday AI**: OKR automation, performance frameworks
 - **Alt Carbon**: Climate data integrity, impact measurement
 
@@ -37,7 +38,7 @@
 
 ### Contact Strategy Priorities
 1. **CEO Direct Outreach**: Lotus Interworks, Weekday AI
-2. **Hiring Team Engagement**: Natobotics, Pepper Content  
+2. **Hiring Team Engagement**: Natobotics, Pepper Content
 3. **Product-Led Approach**: Alt Carbon (technical focus)
 
 ## 🎯 Next Actions
@@ -47,7 +48,7 @@
 - [ ] Research Lotus Interworks leadership team
 - [ ] Expand search to "Founder's Office" variations
 
-### For Rahul  
+### For Rahul
 - [ ] Review high-priority targets
 - [ ] Prepare outreach templates
 - [ ] Schedule strategy session

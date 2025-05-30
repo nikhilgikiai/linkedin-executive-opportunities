@@ -28,7 +28,7 @@ This system identifies and analyzes executive job opportunities on LinkedIn for 
 
 ### Target Roles
 - Chief of Staff
-- Founder's Office positions  
+- Founder's Office positions
 - CFO / Fractional CFO
 - VP Finance / FinOps
 
@@ -52,7 +52,7 @@ This system identifies and analyzes executive job opportunities on LinkedIn for 
 
 ### GitHub Integration
 1. **Data Storage**: All raw data in `/data/` directory
-2. **Human Reports**: Generated in `/reports/` directory  
+2. **Human Reports**: Generated in `/reports/` directory
 3. **Company Profiles**: Individual files in `/companies/`
 4. **Commit Strategy**: Daily commits with meaningful messages
 
@@ -90,5 +90,43 @@ This system identifies and analyzes executive job opportunities on LinkedIn for 
 - Report generation and formatting
 - GitHub repository organization
 
+## Handoff Procedures
+
+### After Every Run
+1. **Commit & Push**: All new data and reports must be committed with descriptive messages
+2. **Handoff via Commit Messages**: Use commit messages as primary handoff mechanism
+3. **No Separate Persistence**: GitHub commits serve as the handoff documentation
+4. **Business Focus**: Only commit business-relevant outputs, not development artifacts
+
+### Commit Message Format
+```
+[SESSION] Brief description of work completed
+
+- Key findings: X new opportunities, Y high-priority targets
+- Actions taken: LinkedIn searches, data analysis, report generation
+- Next recommended actions: Specific steps for team
+- Status: Ready for [Nikhil/Rahul] review and action
+```
+
+### Repository Purpose
+- **PRIMARY**: Business intelligence and opportunity tracking
+- **NOT**: Development or code repository
+- **FOCUS**: Human-readable business outcomes only
+- **AUDIENCE**: Nikhil, Rahul, and business stakeholders
+
+## File Management
+
+### Include in Repository
+- ✅ Markdown reports (dashboard, daily, weekly, company profiles)
+- ✅ Structured data files (JSON, CSV) for business analysis
+- ✅ README and guidelines for context
+- ✅ Human-editable content that drives business decisions
+
+### Exclude from Repository (.gitignore)
+- ❌ Development artifacts (node_modules, build files)
+- ❌ Temporary files and logs
+- ❌ Code development materials
+- ❌ Non-business related technical files
+
 ---
-*This system is designed for autonomous operation with minimal human intervention while maximizing business value.*
+*This system is designed for autonomous operation with minimal human intervention while maximizing business value. All development work should be done in separate repositories.*
