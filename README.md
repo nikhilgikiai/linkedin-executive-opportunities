@@ -1,45 +1,92 @@
-# LinkedIn Executive Opportunities
-
-**Business Development & Product Discovery for Giki.ai**
-
-This repository contains data and analysis from LinkedIn job searches targeting executive roles at growing companies. The goal is to identify the right people to engage with who will shape our product development direction.
-
-## Target Roles
-- Chief of Staff
-- Founder's Office positions
-- CFO / Fractional CFO
-- VP Finance / FinOps
-
-## Data Structure
-
-### `/data/linkedin_jobs_data.json`
-Complete job posting data with analysis including:
-- Company details and stage
-- AI affinity scoring
-- Metrics tracking requirements
-- Potential Giki.ai solutions
-- Business opportunity assessment
-
-### Key Metrics
-- **AI Affinity Score**: 1-10 rating of company's AI/automation readiness
-- **Business Opportunity Score**: 1-10 rating of potential for Giki.ai engagement
-- **Contact Strategy**: Recommended approach for outreach
-
-## Team
-- **Nikhil Singh** (nikhil@giki.ai) - Data collection and analysis
-- **Rahul** (rahul@giki.ai) - Business development and outreach
-
-## Current Status
-- ✅ LinkedIn search automation working
-- ✅ Data collection and analysis pipeline
-- ✅ GitHub data hub established
-- 🔄 Ongoing: Expanding job search coverage
-
-## High-Priority Targets
-Companies with AI Affinity Score ≥ 8 AND Business Opportunity Score ≥ 8:
-1. **Lotus Interworks** - AI startup ($5M ARR, fundraising)
-2. **Weekday AI (YC W21)** - Chief of Staff role
-3. **Natobotics** - VP FinOps (automation focus)
+# 🎯 Executive Opportunities Hub
+**Finding the Right Leaders to Shape Giki.ai's Future**
 
 ---
-*Last updated: $(date)*
+
+## 🚨 **IMMEDIATE ACTIONS REQUIRED**
+
+### 🔥 **4 HIGH-PRIORITY TARGETS** Ready for Outreach
+- **Lotus Interworks** (AI Startup, $5M ARR) - VP Capital Raising
+- **Weekday AI** (YC W21) - Chief of Staff
+- **Natobotics** (IT Services) - VP FinOps
+- **Rooter.gg** (Gaming, $24M ARR) - Strategy Ops Manager
+
+**👉 [VIEW FULL DASHBOARD →](dashboard.md)**
+
+---
+
+## 📊 **QUICK NAVIGATION**
+
+| What You Need | Where to Find It | Last Updated |
+|---------------|------------------|--------------|
+| **Today's Priorities** | [📈 Dashboard](dashboard.md) | Dec 19, 2024 |
+| **Latest Opportunities** | [📅 Daily Report](reports/daily/2024-12-19.md) | Dec 19, 2024 |
+| **Company Deep Dives** | [🏢 Company Profiles](companies/) | Ongoing |
+| **Weekly Trends** | [📊 Weekly Reports](reports/weekly/) | Coming Soon |
+
+---
+
+## 🎯 **WHAT WE'RE DOING**
+
+We're identifying **executive roles at growing companies** where Giki.ai can provide immediate value through financial and operational automation. Our focus:
+
+### Target Executives
+- **Chief of Staff** - Operational excellence automation
+- **CFO/Fractional CFO** - Financial reporting automation
+- **VP Finance/FinOps** - Cost optimization and metrics tracking
+- **Founder's Office** - Cross-functional alignment tools
+
+### Why This Matters
+These executives are **actively hiring** and **facing automation challenges** that Giki.ai can solve immediately, creating both revenue opportunities and product development insights.
+
+---
+
+## 📈 **CURRENT PIPELINE STATUS**
+
+- **🎯 Total Opportunities**: 7 companies identified
+- **🔥 High Priority**: 4 companies (57%) ready for immediate contact
+- **💼 Contacted**: 0 (ACTION NEEDED)
+- **🤝 Active Discussions**: 0
+
+**Next Goal**: Initiate contact with all 4 high-priority targets this week.
+
+---
+
+## 👥 **TEAM & RESPONSIBILITIES**
+
+| Person | Role | Contact | Current Focus |
+|--------|------|---------|---------------|
+| **Nikhil Singh** | Data & Analysis | nikhil@giki.ai | LinkedIn search automation |
+| **Rahul** | Business Development | rahul@giki.ai | Outreach strategy & execution |
+
+---
+
+## 🚀 **GIKI.AI SOLUTIONS WE'RE POSITIONING**
+
+### Financial Automation
+- **Automated investor reporting** (Lotus Interworks)
+- **Real-time ARR dashboards** (Multiple targets)
+- **Cloud cost optimization** (Natobotics)
+
+### Operational Excellence
+- **OKR automation** (Weekday AI)
+- **Cross-functional metrics** (Pepper Content)
+- **Performance frameworks** (Multiple targets)
+
+---
+
+## 📋 **NEXT ACTIONS**
+
+### For Rahul (Business Development)
+- [ ] **Review high-priority targets** in [dashboard](dashboard.md)
+- [ ] **Prepare outreach templates** for financial automation value prop
+- [ ] **Schedule strategy session** with Nikhil
+
+### For Nikhil (Data & Analysis)
+- [ ] **Research leadership teams** for top 4 targets
+- [ ] **Continue LinkedIn searches** for CFO roles
+- [ ] **Create detailed company profiles** for priority targets
+
+---
+
+*🔄 This hub updates automatically as new opportunities are identified. Check back daily for the latest insights.*
