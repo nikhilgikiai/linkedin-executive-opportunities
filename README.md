@@ -54,6 +54,33 @@
 
 ---
 
+## 📋 **HOW THIS SYSTEM WORKS (FOR RAHUL)**
+
+### Simple Structure
+1. **README.md** (this file) - Primary documentation and navigation
+2. **rahul-instructions.md** - Your decision template and guidelines
+3. **executive-roles-market-research-india.md** - Complete market analysis
+4. **chief-of-staff-jobs-india.md** - Detailed Chief of Staff analysis
+
+### What You Need to Do
+1. **Read this README** to understand what we found
+2. **Open rahul-instructions.md** and fill in your decisions:
+   - Which roles to target first?
+   - What messaging to use?
+   - How many companies to contact?
+   - What outreach method?
+3. **Write your outreach template** in rahul-instructions.md
+4. **Set your success metrics and timeline**
+
+### What Happens Next
+- Once you fill out rahul-instructions.md, the system will execute your decisions
+- No complex dashboards or reports - just simple files you can edit
+- Everything is in plain English, no technical jargon
+
+**👉 START HERE: [rahul-instructions.md](rahul-instructions.md)**
+
+---
+
 ## 🎯 **BOTTOM LINE**
 
 1. **Massive market confirmed** - 4,343 jobs across all executive roles
