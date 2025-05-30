@@ -7,8 +7,8 @@ This system identifies and analyzes executive job opportunities on LinkedIn for 
 
 ### 1. Daily Reports (`reports/daily/`)
 - **Format**: Markdown files named `YYYY-MM-DD.md`
-- **Content**: New opportunities found, key insights, recommended actions
-- **Audience**: Quick daily review for Nikhil and Rahul
+- **Content**: New opportunities found, key insights, autonomous system status
+- **Purpose**: Business intelligence updates with actionable LinkedIn links
 
 ### 2. Company Profiles (`companies/`)
 - **Format**: Individual markdown files per company
@@ -17,12 +17,12 @@ This system identifies and analyzes executive job opportunities on LinkedIn for 
 
 ### 3. Weekly Summaries (`reports/weekly/`)
 - **Format**: Comprehensive markdown reports
-- **Content**: Trends, top opportunities, pipeline status, next week's focus
+- **Content**: Trends, top opportunities, pipeline status, market insights
 
 ### 4. Executive Dashboard (`dashboard.md`)
-- **Real-time overview** of all opportunities
+- **Real-time overview** with direct LinkedIn job and company links
 - **Priority matrix** (AI Affinity vs Business Opportunity)
-- **Action items** for team
+- **Immediate action targets** with complete contact information
 
 ## Data Collection Guidelines
 
@@ -56,10 +56,10 @@ This system identifies and analyzes executive job opportunities on LinkedIn for 
 3. **Company Profiles**: Individual files in `/companies/`
 4. **Commit Strategy**: Daily commits with meaningful messages
 
-### Team Collaboration
-- **Nikhil**: Data collection, analysis, system maintenance
-- **Rahul**: Business development, outreach, strategic direction
-- **Communication**: Via GitHub issues and commit messages
+### Autonomous Operations
+- **System**: Data collection, analysis, report generation, company research
+- **Output**: Business-ready intelligence with direct LinkedIn links
+- **Communication**: Via GitHub commits and human-readable reports
 
 ## Quality Standards
 
@@ -139,15 +139,29 @@ When user says "resume", "let's resume", "resume from previous thread", "let's f
 
 - Key findings: X new opportunities, Y high-priority targets
 - Actions taken: LinkedIn searches, data analysis, report generation
-- Next recommended actions: Specific steps for team
-- Status: Ready for [Nikhil/Rahul] review and action
+- Next recommended actions: Specific steps for autonomous system
+- Status: Ready for business team review and action
 ```
 
 ### Repository Purpose
 - **PRIMARY**: Business intelligence and opportunity tracking
 - **NOT**: Development or code repository
 - **FOCUS**: Human-readable business outcomes only
-- **AUDIENCE**: Nikhil, Rahul, and business stakeholders
+- **AUDIENCE**: Business stakeholders and decision makers
+
+## Critical Operating Principles
+
+### Autonomous System Operation
+- **NO HUMAN TASK ASSIGNMENTS**: System never creates tasks for humans
+- **ACTIONABLE OUTPUT**: All reports include direct LinkedIn links and contact information
+- **BUSINESS FOCUS**: Every output serves immediate business intelligence needs
+- **SELF-SUFFICIENT**: System assumes it handles all data collection and analysis autonomously
+
+### README as Functional Gateway
+- **NOT DESCRIPTIVE**: README serves as navigation hub, not just description
+- **IMMEDIATE ACTION**: Top section shows urgent priorities with direct links
+- **NON-TECHNICAL FRIENDLY**: Uses business language and clear visual hierarchy
+- **FUNCTIONAL ROLE**: README itself plays a role in the business process
 
 ## File Management
 
