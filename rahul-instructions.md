@@ -1,6 +1,5 @@
 # 🎯 Instructions for Rahul
 
-**Since you're being lazy, here are the placeholders for your decisions:**
 
 ---
 
@@ -116,5 +115,3 @@ Rahul
 - **Week 3**: `[WHAT HAPPENS WEEK 3]`
 
 ---
-
-**Status**: Waiting for Rahul to stop being lazy and fill this out 😄
